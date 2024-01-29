@@ -8,8 +8,10 @@
 ## Proyectos
 
 - [Rocio Ricagno Web](https://rocioricagno.ar/)
+  Pagina web de artísta desarrollada con React.js y Bootstrap
   
 - [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
+  Repositorio digital de revistas y folletos del Club Atlético San Lorenzo de Almagro, desarrollado a partir del software libre Omeka
 
 - [Índice Político Archivo CASLA](http://indice.archivocasla.com.ar/vocab/index.php)
 <!--
