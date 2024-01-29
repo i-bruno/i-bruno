@@ -1,4 +1,4 @@
-### Hi there, I'm Ignacio 👋
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="nachoHeader.png">
  <source media="(prefers-color-scheme: light)" srcset="nachoHeader.png">
