@@ -5,7 +5,7 @@
  <img alt="Image header info" src="nachoHeader.png">
 </picture>
 
-
+###Proyectos
 <!--
 **i-bruno/i-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###Proyectos###
+
 
 
