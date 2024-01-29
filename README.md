@@ -7,13 +7,13 @@
 
 ## Proyectos
 
-- [Rocio Ricagno Web](https://rocioricagno.ar/)
+### [Rocio Ricagno Web](https://rocioricagno.ar/)
   Pagina web de artísta desarrollada con React.js y Bootstrap
   
-- [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
+### [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
   Repositorio digital de revistas y folletos del Club Atlético San Lorenzo de Almagro, desarrollado a partir del software libre Omeka
 
-- [Índice Político Archivo CASLA](http://indice.archivocasla.com.ar/vocab/index.php)
+### [Índice Político Archivo CASLA](http://indice.archivocasla.com.ar/vocab/index.php)
 <!--
 **i-bruno/i-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
