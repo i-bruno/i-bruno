@@ -10,7 +10,10 @@
 - Rocío Ricagno, Web de artista
   [Rocio Ricagno Web](https://rocioricagno.ar/)
 - Repositorio CASLA
+  http://repositorio.archivocasla.com.ar/
 - Indice CASLA
+  http://indice.archivocasla.com.ar/vocab/index.php
+- 
 - 
 <!--
 **i-bruno/i-bruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
