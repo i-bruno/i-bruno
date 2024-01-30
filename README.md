@@ -10,7 +10,7 @@
   Pagina web de artísta desarrollada con React.js y Bootstrap
 
 ![](https://img.shields.io/github/languages/top/i-bruno/rocioricagno)
-![](https://img.shields.io/badge/16.1%25%20-%20diezyseis?style=plastic&logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
+![](https://img.shields.io/badge/16.1%25%20-%20diezyseis?style=flat&logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
 
   
 ### [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
