@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 -->
 
 <p align="center">
-  <img src="https://github.com/i-bruno/i-bruno/blob/master/nachoHeader.png" alt="Image header info"/>
+  <img src="https://github.com/i-bruno/i-bruno/blob/main/nachoHeader.png" alt="Image header info"/>
 </p>
 
 
