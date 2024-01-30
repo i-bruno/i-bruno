@@ -11,6 +11,8 @@
 
 ![](https://img.shields.io/github/languages/top/i-bruno/rocioricagno?style=flat&logo=javascript&logoColor=%23F7DF1E&label=Javascript&color=%23F7DF1E)
 ![](https://img.shields.io/badge/16.1%25%20-%20diezyseis?style=flat&logo=css3&logoColor=%231572B6&labelColor=white&color=%231572B6)
+![](https://img.shields.io/badge/1.8%25%20-%20html%20?style=flat&logo=html5&logoColor=white&color=%23E34F26)
+
 
   
 ### [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
