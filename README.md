@@ -8,7 +8,7 @@
 ## Proyectos
 
 ### [Rocio Ricagno Web](https://rocioricagno.ar/)
-  Pagina web de artísta desarrollada con React.js y Bootstrap
+  Pagina web de artísta desarrollada con React.js y Bootstrap 
  ![](https://img.shields.io/github/languages/top/i-bruno/RicagnoWeb)
   
 ### [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
