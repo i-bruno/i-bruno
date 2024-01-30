@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/i-bruno/i-bruno/blob/master/nachoHeader.png?raw=true" alt="Sublime's custom image"/>
+  <img src="https://github.com/i-bruno/i-bruno/blob/master/nachoHeader.png?raw=true" alt="Image header info"/>
 </p>
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="nachoHeader.png">
