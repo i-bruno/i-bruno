@@ -9,9 +9,9 @@
 ### [Rocio Ricagno Web](https://rocioricagno.ar/)
   Pagina web de artísta desarrollada con React.js y Bootstrap
 
-![](https://img.shields.io/github/languages/top/i-bruno/rocioricagno?style=flat&logo=javascript&logoColor=%23F7DF1E&label=Javascript&labelColor=white&color=%23F7DF1E)
-![](https://img.shields.io/badge/16.1%25%20-%20diezyseis?style=flat&logo=css3&logoColor=%231572B6&label=CSS&labelColor=%23555&color=%231572B6)
-![](https://img.shields.io/badge/1.8%25%20-%20html%20?style=flat&logo=html5&logoColor=%23E34F26&label=HTML&labelColor=%23555&color=%23E34F26)
+![](https://img.shields.io/github/languages/top/i-bruno/rocioricagno?style=flat&logo=javascript&logoColor=%23F7DF1E&label=Javascript&labelColor=black&color=%23F7DF1E)
+![](https://img.shields.io/badge/16.1%25%20-%20diezyseis?style=flat&logo=css3&logoColor=%231572B6&label=CSS&labelColor=black&color=%231572B6)
+![](https://img.shields.io/badge/1.8%25%20-%20html%20?style=flat&logo=html5&logoColor=%23E34F26&label=HTML&labelColor=black&color=%23E34F26)
 
 
   
