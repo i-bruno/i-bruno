@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/i-bruno/i-bruno/blob/master/nachoHeader.png" alt="Image header info"/>
-</p>
+
 <picture>
  <source media="(prefers-color-scheme: dark)" srcset="nachoHeader.png">
  <source media="(prefers-color-scheme: light)" srcset="nachoHeader.png">
@@ -33,6 +31,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://github.com/i-bruno/i-bruno/blob/master/nachoHeader.png" alt="Image header info"/>
+</p>
 
 
 
