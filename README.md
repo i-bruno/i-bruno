@@ -27,7 +27,7 @@
 ### [Repositorio Archivo CASLA](http://repositorio.archivocasla.com.ar/)
   Repositorio digital de revistas y folletos del Club Atlético San Lorenzo de Almagro, desarrollado a partir del software libre [Omeka](https://omeka.org/).
 
-<img src="https://github.com/i-bruno/i-bruno/blob/main/OmekaBadge.png" alt="logo omeka" style="width: 3vw"/>
+<img src="https://github.com/i-bruno/i-bruno/blob/main/OmekaBadge.png" alt="logo omeka" style="width: 5vw"/>
 
 <hr>
 
