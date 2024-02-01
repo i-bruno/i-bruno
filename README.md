@@ -32,7 +32,7 @@
 <hr>
 
 ### [Índice Político Archivo CASLA](http://indice.archivocasla.com.ar/vocab/index.php)
-Índice político con apellidos y nombres de personas que tuvieron cargos políticos en el Club Atlético San Lorenzo de Almagro. Su desarrollo se trabajó con el software libre [Tematres](https://vocabularyserver.com/web
+Índice político con apellidos y nombres de personas que tuvieron cargos políticos en el Club Atlético San Lorenzo de Almagro. Su desarrollo se trabajó con el software libre [Tematres](https://vocabularyserver.com/web).
 
 <img src="https://github.com/i-bruno/i-bruno/blob/main/tematres.png" alt="logo tematres" style="width: 10vw"/>
 
