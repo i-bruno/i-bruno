@@ -4,8 +4,10 @@
 </p>
 
 <div style:"display:flex; justify-content: space-between; align-items: center;">
+  <p align="center">
   <img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/html.svg" alt="logo html" style="width: 3vw"/>
 <img src="https://github.com/i-bruno/i-bruno/blob/main/css.svg" alt="logo css" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/react.svg" alt="react-logo" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/bootstrap.svg" alt="logo bootstrap" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/git.svg" alt="logo git" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/sass.svg" alt="logo sass" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/mongo.svg" alt="logo mongodb" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/mysql-logo.svg" alt="mysql-logo" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/php.svg" alt="php-logo" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/nodejs.svg" alt="nodejs-logo" style="width: 3vw"/>
+  </p>
 </div>
 
 
