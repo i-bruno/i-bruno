@@ -4,8 +4,8 @@
 </p>
 
 <div style:"display:flex; justify-content: space-between;">
-  <img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/html.svg" alt="logo javascript" style="width: 3vw"/>
-<img src="https://github.com/i-bruno/i-bruno/blob/main/css.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/bootstrap.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/>
+  <img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/html.svg" alt="logo html" style="width: 3vw"/>
+<img src="https://github.com/i-bruno/i-bruno/blob/main/css.svg" alt="logo css" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/bootstrap.svg" alt="logo bootstrap" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/git.svg" alt="logo git" style="width: 3vw"/>
 </div>
 
 
