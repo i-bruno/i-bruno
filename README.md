@@ -3,11 +3,8 @@
   <img src="https://github.com/i-bruno/i-bruno/blob/main/nachoHeader.png" alt="Image header info"/>
 </p>
 
-<img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/>
-<img src="https://github.com/i-bruno/i-bruno/blob/main/html.svg" alt="logo javascript" style="width: 3vw"/>
-<img src="https://github.com/i-bruno/i-bruno/blob/main/css.svg" alt="logo javascript" style="width: 3vw"/>
-<img src="https://github.com/i-bruno/i-bruno/blob/main/bootstrap.svg" alt="logo javascript" style="width: 3vw"/>
-<img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/>
+<img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/html.svg" alt="logo javascript" style="width: 3vw"/>
+<img src="https://github.com/i-bruno/i-bruno/blob/main/css.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/bootstrap.svg" alt="logo javascript" style="width: 3vw"/> <img src="https://github.com/i-bruno/i-bruno/blob/main/javascript.svg" alt="logo javascript" style="width: 3vw"/>
 
 
 ## Proyectos
