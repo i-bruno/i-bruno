@@ -2,7 +2,7 @@
 <p align="center">
   <img src="https://github.com/i-bruno/i-bruno/blob/main/nachoHeader.png" alt="Image header info"/>
 </p>
-
+![](https://img.shields.io/badge/25%20-%20diezyseis?style=flat&logo=css3&logoColor=%231572B6&label=CSS&labelColor=black&color=%231572B6)
 
 ## Proyectos
 
